@@ -1,0 +1,22 @@
+{
+  "name": "electron-child-window",
+  "version": "0.0.1",
+  "description": "Simple module that helps to save and restore visibility of Electron child windows.",
+  "license": "MIT",
+  "repository": "elmarceloc/electron-child-window",
+  "main": "index.js",
+  "author": "Marcelo Cornejo",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "mkdirp": "^0.5.1"
+  }
+}
